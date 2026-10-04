@@ -15,6 +15,8 @@ I'm Cody Hewitt, a student at Brigham Young University-Idaho who's studying comp
 - **Proficient in:** Python, C#, Markdown
 - **Skills:** Data Analysis, Object-Oriented Programming, Git/GitHub, .NET framework, Quarto
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cody613&layout=compact&theme=radical)
+
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -25,6 +27,6 @@ I'm Cody Hewitt, a student at Brigham Young University-Idaho who's studying comp
 
 ## Let's Connect!
 
-- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/codyhewitt95)
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/codyhewitt95)
 
 Don't hesitate to reach out!
