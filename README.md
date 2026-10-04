@@ -1,6 +1,6 @@
 # Cody Hewitt
 
-Hello, GitHub! 👋
+Hello, GitHub!
 
 I'm Cody Hewitt, a student at Brigham Young University-Idaho who's studying computer science and data science. Welcome to my GitHub profile!
 
@@ -27,4 +27,4 @@ I'm Cody Hewitt, a student at Brigham Young University-Idaho who's studying comp
 
 - [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/codyhewitt95)
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Don't hesitate to reach out!
